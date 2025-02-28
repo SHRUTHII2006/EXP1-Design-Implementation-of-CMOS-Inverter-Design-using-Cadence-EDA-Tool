@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![exp1_vlsi_2](https://github.com/user-attachments/assets/50c28b7b-881d-4739-bf03-114236ff112a)
+
 
 
  
@@ -90,14 +91,17 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+ ![exp1_vlsi_3](https://github.com/user-attachments/assets/f1a95d39-c0ba-4478-a9e6-eaf77730b84d)
+
 
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![exp1_vlsi_4](https://github.com/user-attachments/assets/1d164a90-32be-48e8-9746-56ae9d25deb3)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+
+ ![exp1_vlsi_1](https://github.com/user-attachments/assets/d7644a10-f292-460c-9eab-638c2ceea50d)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
